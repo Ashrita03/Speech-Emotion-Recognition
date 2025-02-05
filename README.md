@@ -25,5 +25,5 @@ Install required Python libraries:
 🔹 Contact
 👤 Ashrita Nookala
 📧 ashrita0306@gmail.com
-🔗 LinkedIn Profile : 
+🔗 LinkedIn Profile : http://www.linkedin.com/in/ashrita-nookala-4103b9290
 
